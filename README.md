@@ -5,7 +5,7 @@
 ### We have analyzed the legal records over a span of 28 years, provided with a law enforcement data set hate_crime.csv. The dataset is composed of 28 columns, 10 of which were dropped initially due to being irrelevent. A decision was made to use the Continental United States, dropping small data values for territories & Hawaii. We accounted for the many 'unknown' values with the main offender race, white males. The study showed that, over time, the target group remained the same; Anti-Black or African-American.
 
 
-### What year had the most hate crime? (A)
+### What year had the most hate crime?
 
 * We found that hate crimes spiked highest in 2001.
 * Which raised the question; did hate crimes spike after 9/11?
@@ -14,7 +14,7 @@ We had found that to be true, after the devastation hate crime soared in Septemb
 
 
 
-### Which hate crime is most prevalent? (D)
+### Which hate crime is most prevalent?
 Top 5 hate crimes (with their legal/law definition):
 
 (1) Destruction/Damage/Vandalism of Property: to willfully or maliciously destroy, damage, deface, or otherwise injure real or personal property without the consent of the owner or the person having custody or control of it.
@@ -30,7 +30,7 @@ Top 5 hate crimes (with their legal/law definition):
 <b> The most prevalent hate crime in the continental U.S. is Destruction/Damage/Vandalism of Property, with a total of 62147 incidents. There were about 3400 more incidents than the second most hate crime; Intimidation.  </b>
 
 
-### Which state/(cities) has the most hate crime(s)? (F)
+### Which state/(cities) has the most hate crime(s)?
 
 Top 5:
 
@@ -46,6 +46,6 @@ Top 5:
 
 <b> We can infer that California has the greatest population of the listed cities, so it can be open to more hate crimes. The map indicates and shows the cities with the highest reported hate crimes. The piechart shows which cities within the states have the highest hate crimes. </b>
 
-### What bias description (targeted group) is most susceptible? (T)
+### What bias description (targeted group) is most susceptible?
 
 The most susceptible group overall is Anti-Black or African American. Over the years, the targeted group has been the same. The bargraph shows this group is more than twice vulnerable to hate crimes than any of the others. The nested pie chart shows the offender races of hate crimes against the most susceptible group.
