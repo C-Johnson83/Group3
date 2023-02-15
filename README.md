@@ -10,7 +10,7 @@
 * We found that hate crimes spiked highest in 2001.
 * Which raised the question; did hate crimes spike after 9/11?
 
-We had found that to be true, after the devastation hate crime soared in September 2001.
+The highest number of reported hate crimes in this dataset occurred in 2001, and the month specifically in which the amount of hate crimes was highest was September 2001. The dataset showed a clear relationship between this spike in hate crimes and September 11, 2001. Additional data and research would be needed to determine if there is a direct correlation with the actual events of September 11, but the possibility is strong based on the data.
 
 
 
